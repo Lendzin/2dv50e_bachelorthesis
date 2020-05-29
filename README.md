@@ -3,7 +3,9 @@
 * The code belonging to this project is not "clean" in the sense of full understanding, 
 functionality was included as the project went along and could thus be refactored quite a bit. 
 (also stated in the thesis: most likely better off re-implemented with purely python, 
-alternatively fixing issue with javascript and thus having all code in that environment)
+alternatively fixing issue with javascript and thus having all code in that environment).
+
+* Main function, or "the start of the program" as a client connects is: 'index.js' (in the router folder).
 
 * Models and all files produced as results from these models are stored in : "public/models"
 (only models used in this thesis are included, prelimenary models are more than 1GB more of data)
