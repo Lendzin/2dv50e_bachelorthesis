@@ -1,4 +1,4 @@
-# 2dv50e_bacheolorthesis
+# 2dv50e_bachelorthesis
 
 * The code belonging to this project is not "clean" in the sense of full understanding, 
 functionality was included as the project went along and could thus be refactored quite a bit. 
