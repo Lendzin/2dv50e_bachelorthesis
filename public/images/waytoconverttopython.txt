@@ -1,0 +1,27 @@
+
+tensorflowjs_converter \
+ --input_format=tfjs_layers_model \
+ --output_format=keras \
+ d:/kurser/Project/backend/public/images/tp100_relu_color_d11_w128_rmsp_random_nobias/tp100_relu_color_d11_w128_rmsp_random_nobias1/model.json \
+ \tp100_relu_color_d11_w128_rmsp_random_nobias1
+
+
+
+a+m=30
+a+10m=187
+=>9m = 187-30 = 157
+=> m ~ 17.5
+=> a ~ 12.5
+=> a+20m = 12.5 + 175*2 = 362.5 (in fact it was 325.5)
+=> a+1000m < 4.8 hours !
+
+b+n=47
+b+10n=246
+=>9n = 199
+=> n ~ 22
+=> b ~ 25
+=> b+20n = 465 (in fact it was 464.43)
+=> b+1000n < 6.1 hours !
+
+
+gradients for 1000x1000 : 7804 seconds

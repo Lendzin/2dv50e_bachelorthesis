@@ -1,0 +1,72 @@
+----------------------- TRAINING STARTING, model: tp100_relu_color_d11_w128_rmsp_random_nobias1 --------------------
+----- ModelSetup - activation: relu bias: false hlayers: 10 units: 128 -----
+--creating new lowestloss folder--
+0.33266890048980713
+epoch: 10000 loss: 0.17650575935840607
+Lowest loss recorded: 0.17643724381923676
+epoch: 20000 loss: 0.17542098462581635
+Lowest loss recorded: 0.17536026239395142
+epoch: 30000 loss: 0.17359067499637604
+Lowest loss recorded: 0.17354276776313782
+epoch: 40000 loss: 0.1724952608346939
+Lowest loss recorded: 0.1724814772605896
+epoch: 50000 loss: 0.17150135338306427
+Lowest loss recorded: 0.1714971363544464
+8568.533 seconds
+Current loss: 0.17150135338306427
+Lowest loss recorded: 0.1714971363544464
+----------------------- TRAINING ENDED --------------------
+----------------------- TRAINING STARTING, model: tp100_relu_color_d11_w128_rmsp_random_nobias2 ---------------------
+----- ModelSetup - activation: relu bias: false hlayers: 10 units: 128 -----
+--creating new lowestloss folder--
+0.3323005735874176
+epoch: 10000 loss: 0.17676864564418793
+Lowest loss recorded: 0.17671288549900055
+epoch: 20000 loss: 0.17525897920131683
+Lowest loss recorded: 0.1752389669418335
+epoch: 30000 loss: 0.1744176596403122
+Lowest loss recorded: 0.1743934601545334
+epoch: 40000 loss: 0.1739923506975174
+Lowest loss recorded: 0.1739923506975174
+epoch: 50000 loss: 0.17318201065063477
+Lowest loss recorded: 0.17315931618213654
+8504.232 seconds
+Current loss: 0.17318201065063477
+Lowest loss recorded: 0.17315931618213654
+----------------------- TRAINING ENDED --------------------
+----------------------- TRAINING STARTING, model: tp100_relu_color_d11_w128_rmsp_random_nobias3 --------------------
+----- ModelSetup - activation: relu bias: false hlayers: 10 units: 128 -----
+--creating new lowestloss folder--
+0.3331387937068939
+epoch: 10000 loss: 0.17269723117351532
+Lowest loss recorded: 0.17259374260902405
+epoch: 20000 loss: 0.17135804891586304
+Lowest loss recorded: 0.17132063210010529
+epoch: 30000 loss: 0.17115482687950134
+Lowest loss recorded: 0.1711379438638687
+epoch: 40000 loss: 0.16999946534633636
+Lowest loss recorded: 0.16998688876628876
+epoch: 50000 loss: 0.16999055445194244
+Lowest loss recorded: 0.16997487843036652
+8518.243 seconds
+Current loss: 0.16999055445194244
+Lowest loss recorded: 0.16997487843036652
+----------------------- TRAINING ENDED --------------------
+----------------------- TRAINING STARTING, model: tp100_relu_color_d11_w128_rmsp_random_nobias4 --------------------
+----- ModelSetup - activation: relu bias: false hlayers: 10 units: 128 -----
+--creating new lowestloss folder--
+0.33310386538505554
+epoch: 10000 loss: 0.16839513182640076
+Lowest loss recorded: 0.16830722987651825
+epoch: 20000 loss: 0.1673693209886551
+Lowest loss recorded: 0.16731783747673035
+epoch: 30000 loss: 0.16662177443504333
+Lowest loss recorded: 0.16658200323581696
+epoch: 40000 loss: 0.16625159978866577
+Lowest loss recorded: 0.16621147096157074
+epoch: 50000 loss: 0.16612811386585236
+Lowest loss recorded: 0.16611012816429138
+8864.626 seconds
+Current loss: 0.16612811386585236
+Lowest loss recorded: 0.16611012816429138
+----------------------- TRAINING ENDED --------------------

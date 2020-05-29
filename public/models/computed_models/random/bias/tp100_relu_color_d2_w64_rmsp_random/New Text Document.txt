@@ -1,0 +1,19 @@
+----------------------- TRAINING STARTING, model: tp100_relu_color_d2_w64_rmsp_random1 --------------------
+3169.234 seconds
+Current loss: 0.02387513592839241
+Lowest loss recorded: 0.02357661910355091
+
+----------------------- TRAINING STARTING, model: tp100_relu_color_d2_w64_rmsp_random2 --------------------
+2900.11 seconds
+Current loss: 0.022633343935012817
+Lowest loss recorded: 0.022633343935012817
+
+----------------------- TRAINING STARTING, model: tp100_relu_color_d2_w64_rmsp_random3 --------------------
+2847.587 seconds
+Current loss: 0.02314305678009987
+Lowest loss recorded: 0.022951435297727585
+
+----------------------- TRAINING STARTING, model: tp100_relu_color_d2_w64_rmsp_random4 --------------------
+2978.86 seconds
+Current loss: 0.022922972217202187
+Lowest loss recorded: 0.02285374514758587

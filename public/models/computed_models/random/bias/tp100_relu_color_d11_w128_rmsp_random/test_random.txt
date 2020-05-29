@@ -1,0 +1,36 @@
+----------------------- TRAINING STARTING, model: tp100_relu_color_d11_w128_rmsp_random1 --------------------
+----- ModelSetup - activation: relu bias: true hlayers: 10 units: 128 -----
+--creating new lowestloss folder--
+0.3323937654495239
+10296.252 seconds
+Total amount of epochs: 50000
+Current loss: 0.0003780226979870349
+Lowest loss recorded: 0.00037802266888320446
+----------------------- TRAINING ENDED --------------------
+----------------------- TRAINING STARTING, model: tp100_relu_color_d11_w128_rmsp_random2 --------------------
+----- ModelSetup - activation: relu bias: true hlayers: 10 units: 128 -----
+--creating new lowestloss folder--
+0.33227673172950745
+10461.752 seconds
+Total amount of epochs: 50000
+Current loss: 0.0004644117143470794
+Lowest loss recorded: 0.0004644116561394185
+----------------------- TRAINING ENDED --------------------
+----------------------- TRAINING STARTING, model: tp100_relu_color_d11_w128_rmsp_random3 --------------------
+----- ModelSetup - activation: relu bias: true hlayers: 10 units: 128 -----
+--creating new lowestloss folder--
+0.33196479082107544
+9940.705 seconds
+Total amount of epochs: 50000
+Current loss: 0.000292533659376204
+Lowest loss recorded: 0.0002925336011685431
+----------------------- TRAINING ENDED --------------------
+----------------------- TRAINING STARTING, model: tp100_relu_color_d11_w128_rmsp_random4 --------------------
+----- ModelSetup - activation: relu bias: true hlayers: 10 units: 128 -----
+--creating new lowestloss folder--
+0.332057386636734
+10510.441 seconds
+Total amount of epochs: 50000
+Current loss: 0.000414152629673481
+Lowest loss recorded: 0.0004141525714658201
+----------------------- TRAINING ENDED --------------------
