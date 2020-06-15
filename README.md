@@ -21,10 +21,10 @@ Some outcommented things have remained as they might be useful for anyone who wa
 
 * Converting models from JavaScript to Python was done by using the following command:
 
-<p align="center">
-tensorflowjs_converter \
- --input_format=tfjs_layers_model \
- --output_format=keras \
- path_to_javascript_model/model.json \
- \name_of_pythonmodel
-</p>
+<div align="center">
+tensorflowjs_converter \ <br>
+ --input_format=tfjs_layers_model \<br>
+ --output_format=keras \<br>
+ path_to_javascript_model/model.json \<br>
+ \name_of_pythonmodel<br>
+</div>
