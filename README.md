@@ -19,4 +19,10 @@ This means that there are functions that would not be used while producing the r
 * 'Unused' outcommented functionality have been removed to clean the project up, however should not mess with actual functionality.
 Some outcommented things have remained as they might be useful for anyone who wants to play around with functionality related to said functions.
 
+* Converting models from JavaScript to Python was done by using the following command:
 
+tensorflowjs_converter \
+ --input_format=tfjs_layers_model \
+ --output_format=keras \
+ path_to_javascript_model/model.json \
+ \name_of_pythonmodel
