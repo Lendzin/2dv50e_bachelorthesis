@@ -19,7 +19,7 @@ This means that there are functions that would not be used while producing the r
 * 'Unused' outcommented functionality have been removed to clean the project up, however should not mess with actual functionality.
 Some outcommented things have remained as they might be useful for anyone who wants to play around with functionality related to said functions.
 
-* Converting models from JavaScript to Python was done by first installing "tensorflowjs_converter", <br> then using the following command:
+* Converting models from JavaScript to Python was done by first installing "tensorflowjs_converter" through 'pip', <br> then using the following command:
 
 <div align="center">
 tensorflowjs_converter \ <br>
